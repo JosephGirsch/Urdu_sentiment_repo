@@ -45,9 +45,6 @@ pip install numpy pandas matplotlib scipy scikit-learn lightgbm openai
 
 ## Usage Notes
 
-Clone this repository:
-
-
 1. Download the dataset from the provided link and place it in the project directory.
 	git clone https://github.com/your-username/sentiment-analysis-case-study.git
 	cd sentiment-analysis-case-study
